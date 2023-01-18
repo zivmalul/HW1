@@ -19,7 +19,6 @@ public class Main {
            System.out.println("For, " + account.GetAccountNumber() + "Credit limit: up to, " + account.GetCurrentBalance());
            System.out.println("For, " + account.GetAccountNumber() + "Withdrawal limit: up to, " + account.Withdraw(500));
 
-
         }
 
     }
